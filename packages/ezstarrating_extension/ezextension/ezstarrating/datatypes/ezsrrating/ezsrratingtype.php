@@ -4,7 +4,7 @@
 //
 // SOFTWARE NAME: eZ Star Rating
 // SOFTWARE RELEASE: 2.x
-// COPYRIGHT NOTICE: Copyright (C) 2008 Bruce Morrison, 2009-2010 eZ Systems AS
+// COPYRIGHT NOTICE: Copyright (C) 2008 Bruce Morrison, 2009-2012 eZ Systems AS
 // SOFTWARE LICENSE: GNU General Public License v2.0
 // NOTICE: >
 //   This program is free software; you can redistribute it and/or
@@ -25,7 +25,7 @@
 
 class ezsrRatingType extends eZDataType
 {
-	const DATA_TYPE_STRING = 'ezsrrating';
+    const DATA_TYPE_STRING = 'ezsrrating';
 
     /*!
      Construction of the class, note that the second parameter in eZDataType 
